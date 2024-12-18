@@ -1,0 +1,9 @@
+{
+	"name": "gkotiADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b00cdec-8aaa-4399-b582-2fdb8d09aad1",
+		"tenantId": "3ef94665-f4a7-425b-b429-30945fdab954"
+	}
+}
